@@ -6,7 +6,7 @@
 
  <div>
   <a href= "[https://github.com/Jose-Carlos-Alencar]">
-  <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=eraldomaciel&show_icons=true&theme=gruvbox"/>
+  <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=Jose-Carlos-Alencar_icons=true&theme=gruvbox"/>
     
 </div>
 <div style="display: inline_block"><br>
